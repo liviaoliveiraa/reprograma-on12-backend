@@ -1,0 +1,10 @@
+Para corrigir prova
+Colocar todas as provas no lado direito
+Pegar a primeira prova
+Ler a primeira questão
+Assinar com um X caso a questão estiver errada
+Fazer o sinal de certo caso a questão esteja certa
+Repetir nas quatro questões abaixo
+Assim que terminar
+Colocar a prova no lado esquerdo 
+

@@ -1,0 +1,7 @@
+Para descobrir se o número é par ou ímpar
+Digite em uma calculadora o número que você queira descobrir se é par ou ímpar
+Clique na opção de dividir
+Digite o número dois
+Clique na opção de igual
+Se o resultado ser um número inteiro é par
+Caso contrário é impar

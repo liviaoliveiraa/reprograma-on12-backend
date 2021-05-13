@@ -1,0 +1,8 @@
+Para brincar de morto-vivo
+Uma pessoa do grupo dirá morto-vivo
+Caso fale morto
+Todos deverão agachar
+Caso fale vivo
+Todos deverão levantar
+Quem errar o comando
+É eliminado da brincadeira

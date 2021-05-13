@@ -1,0 +1,8 @@
+Para somar três números
+Digite em uma calculadora o primeiro número a ser somado
+Clique na opção de soma
+Digite o segundo número a ser somado
+Clique na opção de soma
+Digite o terceiro número a ser somado
+Clique na opção de soma
+E então, clique na opção de igual

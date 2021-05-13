@@ -1,0 +1,5 @@
+Para calcular aumento de salário
+Quem recebe um salário de até $500,00
+O aumento será de 20%
+Quem recebe um salário maior de $500,01
+O aumento será de 10%

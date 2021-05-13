@@ -1,0 +1,16 @@
+Para trocar um pneu
+Agache-se na altura do pneu e verifique se está furado
+Caso não esteja, não precisa trocar
+Se sim, abra o porta-mala do carro 
+Levante a tampa inferior do carro para pegar o macaco, step e a chave de roda
+Conecte o macaco no carro 
+No sentido horário você gira o macaco para que o carro levante
+Desparafuze com a chave de roda o pneu furado
+Retire o pneu furado
+Coloque o pneu novo
+Parafuze o pneu novo com a chave de roda
+Jogue fora no lixo reciclável
+No sentido anti-horário você gira o macaco para que o carro abaixe
+Desconecte o macaco do carro
+Jogue o pneu velho no lixo reciclável
+

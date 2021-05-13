@@ -1,0 +1,18 @@
+Para trocar uma lâmpada queimada
+Acende a lâmpada 
+Acendou? 
+Se sim, não precisa trocar
+Se não, desligar o interruptor
+Pegar uma escada
+Subir a escada
+Tirar a lâmpada queimada
+Descer a escada
+Pegar a lâmpada nova
+Subir a escada
+Colocar a lâmpada nova
+Descer a escada
+Ligar o interruptor 
+Verifique se acendeu a lâmpada
+Ne não, repetir o processo novamente
+Se sim, guarde a escada 
+Fim

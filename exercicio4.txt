@@ -1,0 +1,10 @@
+Para fazer um débito no caixa eletrônico
+Procurar o caixa que realize depósitos
+Selecione a opção depósito
+Insira o valor a ser depósitado
+Selecione a opção dinheiro em caso de dinehiro ou cheque se for cheque 
+Coloque o dinheiro ou cheque no envelope abrindo-o
+Assim que inserido o dinheiro ou o cheque no envelope feche-o puxando a fita que tem a cola
+Insira o envelope no local indicado do caixa
+Aguarde o comprovante do depósito 
+E finalize a operação

@@ -1,0 +1,10 @@
+Para calcular média das notas
+Em uma calculadora informe a nota da primeira nota
+Clique na opção de soma
+Informe a nota da segunda prova
+Clique na opção de igual
+O resultado da soma faça uma divisão por dois
+Se o resultado da divisão for maior que seis
+O aluno está aprovado
+Se for menor que seis
+O aluno está reprovado
